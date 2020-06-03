@@ -1,2 +1,2 @@
 # Javatogit
-echo "Test Gitwebhook1"
+echo "Test Gitwebhook"
